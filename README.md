@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Awesomeze
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning and exploring Javascript, react js, tailwind, and a few other documentations and libraries.
 - 💞️ I’m looking to opportunities for collaboration and jobs.
 - 📫 Drop a message for me here or semd me an email @ ezeawesomeeze@gmail.com
