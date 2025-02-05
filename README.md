@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Awesomeze
-- 🌱 I’m currently learning and exploring Typscript(Js), react js, tailwind, and a few other languages, documentations and libraries.
+- 🌱 I’m currently learning and exploring Typscript(Js), react js, tailwind, and a few other languages, frameworks and libraries.
 - 💞️ I’m looking forward to opportunities for collaborations on projects and job opportunities (freelancing).
 - 📫 Drop a message for me here or send me an email @ ezeawesomeeze@gmail.com
 - ⚡ Fun fact: I draw and paint (oil paintings).
